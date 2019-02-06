@@ -1,2 +1,2 @@
-# Jianzhi_Offer
+# 剑指_Offer
 Java, from Newcoder.com
