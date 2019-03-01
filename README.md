@@ -1,2 +1,2 @@
 # 剑指_Offer
-Java, from Newcoder.com
+Java, from Nowcoder.com
